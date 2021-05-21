@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProblemStatement05</string>
+    <string name="c346_android_programming">C346 Android Programming</string>
+    <string name="module_code">Module Code:</string>
+    <string name="module_name">Module Name:</string>
+    <string name="academic_year">Academic Year:</string>
+    <string name="semester">Semester:</string>
+    <string name="module_credit">Module Credit:</string>
+    <string name="venue">Venue:</string>
+    <string name="textview1">TextView1</string>
+    <string name="textview2">TextView2</string>
+    <string name="textview3">TextView3</string>
+    <string name="textview4">TextView4</string>
+    <string name="textview5">TextView5</string>
+    <string name="textview6">TextView6</string>
+    <string name="c218_ui_ux_design_for_apps">C218 UI/UX DESIGN FOR APPS</string>
+    <string name="c235_it_security_and_management">C235 IT SECURITY AND MANAGEMENT</string>
+</resources>
